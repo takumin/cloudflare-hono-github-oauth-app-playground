@@ -4,6 +4,3 @@ compatibility_date = "2025-03-03"
 
 [observability]
 enabled = true
-
-[vars]
-GITHUB_REDIRECT_URI = "https://github-oauth-app-hello-world.tmfam.workers.dev/callback"
