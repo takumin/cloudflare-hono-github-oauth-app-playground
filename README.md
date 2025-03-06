@@ -1,4 +1,4 @@
-# bun-langchainjs-playground
+# cloudflare-hono-github-oauth-app-playground
 
 To install dependencies:
 
